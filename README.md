@@ -16,3 +16,7 @@ General novice setup.
 3. Making amazon prime music work, otherwise would have buy youtube music!
 4. Somehow make it find my bose wireless headphones.
 5. Find keys/wallet.
+
+## FAQs:
+1. Great places to ask for help.
+IRC: #reddit-homeautomation
