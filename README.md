@@ -15,3 +15,4 @@ General novice setup.
 2. Making phone calls, texts through apps like telegram work.
 3. Making amazon prime music work, otherwise would have buy youtube music!
 4. Somehow make it find my bose wireless headphones.
+5. Find keys/wallet.
