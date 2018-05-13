@@ -21,4 +21,6 @@ General novice setup.
 ## FAQs:
 1. Great places to ask for help.\
 IRC: #reddit-homeautomation
-
+2. Which devices require a hub and which don't?
+3. How can you be secure?
+4. Should you buy 2.4 Ghz or 5Ghz or zwave? Is Samsung SmartThings a must-have?
