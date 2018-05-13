@@ -1,5 +1,6 @@
 # google_home_setup
 General novice setup.
+I saw this https://www.youtube.com/watch?v=6x1GkgbVP1I a few years ago. I started to give it a go, but it was too much of hassle at time. Forunately, now it is easy. :)
 
 ## Now:
 1. Google home mini. $39 [Link](https://store.google.com/us/config/google_home_mini?sku=_google_home_mini_chalk&gclid=EAIaIQobChMIzv7Uj7OB2wIV6LvtCh3TUgsZEAYYASABEgJZnfD_BwE)
