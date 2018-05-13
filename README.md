@@ -16,8 +16,9 @@ General novice setup.
 3. Making amazon prime music work, otherwise would have buy youtube music!
 4. Somehow make it find my bose wireless headphones.
 5. Find keys/wallet.
-6. Making old linux laptop turn on remotely.[Link](https://askubuntu.com/questions/297198/remotely-turning-on-computer?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa). Setuping this up with google home might be a hassle.
+6. Making old linux laptop turn on remotely. [Link](https://askubuntu.com/questions/297198/remotely-turning-on-computer?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa). Setuping this up with google home might be a hassle.
 
 ## FAQs:
 1. Great places to ask for help.\
 IRC: #reddit-homeautomation
+
